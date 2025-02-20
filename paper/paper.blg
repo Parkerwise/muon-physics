@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: prl.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: paperNotes.bib
+Database file #2: sources.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+apsrev4-2.bst 2015-08-30 from 4.21a (PWD, AO, DPC/HNN) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+You've used 4 entries,
+            5847 wiz_defined-function locations,
+            1631 strings with 15390 characters,
+and the built_in function-call counts, 3709 in all, are:
+= -- 250
+> -- 70
+< -- 28
++ -- 24
+- -- 14
+* -- 550
+:= -- 383
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 16
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 340
+empty$ -- 258
+format.name$ -- 44
+if$ -- 702
+int.to.chr$ -- 1
+int.to.str$ -- 12
+missing$ -- 43
+newline$ -- 64
+num.names$ -- 12
+pop$ -- 146
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 141
+stack$ -- 0
+substring$ -- 92
+swap$ -- 320
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 51
+warning$ -- 0
+while$ -- 12
+width$ -- 0
+write$ -- 84
